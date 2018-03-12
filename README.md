@@ -1,4 +1,3 @@
-The animation is somewhat laggy probably due to the ineffectivness of drawImage method in high frame rate animation.
 
 Program execution example:
 ![img](https://i.imgur.com/Jhjxjvc.png)
